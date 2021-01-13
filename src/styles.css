@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: red;
+  border-bottom: 30px solid grey;
+  display: flex;
+  justify-content: space-between;
+  color: black;
+}
